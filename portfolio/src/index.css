@@ -28,7 +28,7 @@ so that it can be applied globally across your HTML document. */
 
    --container-width-lg : 75%;
    --container-width-md : 86%;
-   --container-width-ms : 90%;
+   --container-width-sm : 90%;
 
    --transition : all 400ms ease;
 }
@@ -66,7 +66,6 @@ h1 {
 
 section {
    margin-top: 8rem;
-   height: 100vh;
 }
 
 section > h2 , section > h5 {
